@@ -26,7 +26,7 @@ var loadPopcorn = function(){
     // Instructions are here: https://github.com/jsoma/tabletop#1-publishing-your-google-sheet
     // It's very important, though, to keep the same column headers as in our example spreadsheet:
     // https://docs.google.com/spreadsheets/d/1pL_Lj62_ZcW7iawTCQ_5BQsmdynCtC8y5BCNy3k2LOM/
-    let public_spreadsheet_key = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vT-TV2mTVwq__hESKtaE9nMv31wk8plBJpg_TJ5L6FGAxcgNjLJVQdvHyFFAlnwxdZ5o2W7XULpWsUF/pub?output=csv';
+    let public_spreadsheet_key = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vT-TV2mTVwq__hESKtaE9nMv31wk8plBJpg_TJ5L6FGAxcgNjLJVQdvHyFFAlnwxdZ5o2W7XULpWsUF/pub?gid=1715955432&single=true&output=csv';
 
     // now we are going to use the tabletop.js library, which was called in our 
     // HTML file, to grab the date from the spreadsheet and process it so that 
@@ -56,7 +56,7 @@ function processInfo(sheets) {
     // looking for.  In my example the sheet containing popcorn-data is 
     // called "popcornSheet".  If you name your sheet something else this won't
     // work.  
-    var data = sheets["popcorn-data"].all();
+    var data = sheets.data
 
     // this loop runs once for each row in the spreadsheet. 
     for (let event of data) {

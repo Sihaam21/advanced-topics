@@ -1,3 +1,3 @@
-# intro here
+# Introduction
 
-Just a few simple things here please. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Lieutenant Colonel Abdul Rasheed Muhammad** was a civilian Imam in San Diego, California before he decided to join the U.S. Armed Forces. He believed that the discipline and values of military culture were appealing enough to take the plunge and join the army. So he began his military career in 1982. This was only a few years before the beginning of the Persian Gulf War in 1990.  Also during the early 90s, he took his background knowledge as a civilian Imam to become the first Muslim chaplain in the armed forces. A bold move during such a tense time in American military history.  During his early days as a member of the Armed Forces, the Persian Gulf War had started with the UN Security Council sanctioning the use of force against Iraq if they did not withdraw from Kuwait. Iraq is an Islamic country that brought a lot of tension and fear towards Muslims as a whole. This not only brought unrest between people of the Islamic faith and people of other faiths but also between those within the faith itself. 
