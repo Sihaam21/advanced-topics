@@ -8,7 +8,7 @@
  
   **ARM**[^first]: "I didn’t realize some of the things that I would be called to do would be as difficult as they were. And maybe that’s mercy from God—for us not to know certain things in advance. But I realized that I could, in fact, do hard things." <a href="javascript:seek(107)"> 1:47</a>
 
-_______________________________________________________________________________________
+
 
 
 ### Religious/Emotional Significants
@@ -35,7 +35,7 @@ ________________________________________________________________________________
   **ARM**: "You know, the questions that I asked myself, I felt were very legitimate questions. Like, ‘Should I be here doing this?’ And then, I would suddenly realize in the next thought, ‘Yes, I should. Who else is there?’ That would always help me to get through." <a href="javascript:seek(78)"> 01:18</a> 
 
 
-_______________________________________________________________________________________
+
 
 
 ### Military Significance
